@@ -1,0 +1,5 @@
+GOOGLE_PROJECT   = "GCP project name"
+GOOGLE_REGION    = "us-central1-c"
+GKE_NUM_NODES    = "3"
+GKE_CLUSTER_NAME = "demo-cluster"
+GKE_MACHINE_TYPE = "n1-standard-2"
